@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "1017116693959",
+    "firebase_url": "https://smart-canteen-app-fbaad-default-rtdb.firebaseio.com",
+    "project_id": "smart-canteen-app-fbaad",
+    "storage_bucket": "smart-canteen-app-fbaad.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1017116693959:android:bbcaae0c82b493dc9975e2",
+        "android_client_info": {
+          "package_name": "my.anupamroy.smartcanteenapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1017116693959-2aqiagqsq602oi3jv06u1anrg7pbeglf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCF2uNkM-MNYjjGn95HYQLL5jonCLSZgGI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1017116693959-2aqiagqsq602oi3jv06u1anrg7pbeglf.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
